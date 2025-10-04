@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const FullWidthBanner = () => {
-  return (
-    <section className="full-width-banner">
-      {/* This would typically be a background image */}
-    </section>
-  );
-}
+  return <section className="full-width-banner"></section>;
+};
 
-export default FullWidthBanner
+export default FullWidthBanner;

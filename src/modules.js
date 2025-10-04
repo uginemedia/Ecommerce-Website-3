@@ -70,7 +70,7 @@ export const recentArrivals = [
     img: recentArrival4,
   },
   {
-    id: 4,
+    id: 5,
     name: "Carhartt Hoodie Mens",
     price: "$200.00",
     img: recentArrival5,
